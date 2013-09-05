@@ -1,0 +1,82 @@
+/*
+ * Note: Include the nivo-slider.css file that comes
+ * with the main download before including this file.
+ */
+
+#slider {
+	position:relative;
+	margin:0px 0px 0px 0px;
+	background:#202834 url(../images/4geeks/home/loading.gif) no-repeat 50% 50%;
+	min-width:800px;
+	width:800px;
+	height: 160px;
+	margin:auto;
+	clear:both;
+	/*-moz-box-shadow:0px 0px 10px #333;
+	-webkit-box-shadow:0px 0px 10px #333;
+	box-shadow:0px 0px 10px #333;*/
+}
+.thumb_youtube{
+	min-width:280px;
+	width:280px;
+}
+
+#slider img {
+	position:absolute;
+	top:0px;
+	left:0px;
+	display:none;
+	min-width:280px;
+	float:left;
+	
+}
+#slider a {
+	border:0;
+	display:block;
+	
+}
+
+.nivo-controlNav {
+	position:absolute;
+	left:260px;
+	bottom:-42px;
+}
+.nivo-controlNav a {
+	display:block;
+	width:22px;
+	height:22px;
+	background:url(../images/4geeks/home/bullets.png) no-repeat;
+	text-indent:-9999px;
+	border:0;
+	margin-right:3px;
+	float:left;
+}
+.nivo-controlNav a.active {
+	background-position:0 -22px;
+}
+
+.nivo-directionNav a {
+	display:block;
+	width:31px;
+	height:34px;
+	background:url(../images/4geeks/home/arrows.png) no-repeat;
+	text-indent:-9999px;
+	border:0;
+}
+a.nivo-nextNav {
+	background-position:-35px 0;
+	right:15px;
+}
+a.nivo-prevNav {
+	left:15px;
+}
+
+.nivo-caption {
+    text-shadow:none;
+    font-family: Helvetica, Arial, sans-serif;
+}
+.nivo-caption a { 
+    color:#efe9d1;
+    text-decoration:underline;
+}
+

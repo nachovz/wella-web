@@ -1,0 +1,83 @@
+@charset "utf-8";
+/* CSS Document */
+#mainContent{
+	height:377px;
+	margin-top:20px;
+	clear:both;
+	padding-bottom:0px;
+}
+
+#default-content{
+	padding:0px;
+}
+
+#play_video{
+	float:left;
+	min-width:283px;
+	width:283px;
+	height:170px;
+	margin-top:20px;
+}
+
+#texto{
+	float:left;
+	min-width:441px;
+	width:441px;
+	padding-left:10px;
+	margin-top:25px;
+	text-align:justify;
+}
+
+
+h2{
+	font-size:14px;
+	text-align:left;
+	font-family:"ClNwBookOf";
+	color:#6f6f6f;
+	height:21px;
+	margin-top:5px;
+}
+
+h2 span{
+	font-family:"ClNwMediumLf";
+}
+
+p{
+	font-size:12px;
+	text-align:left;
+	font-family:"ClNwBookOf";
+	color:#6f6f6f;
+	margin-top:-10px;
+	text-align:justify;
+}
+
+.logo_e{
+	clear:both;
+	min-width:66px;
+	width:66px;
+	height:107px;
+	float:left;
+	background:url(../images/trendvision/1_07.jpg) no-repeat;
+}
+
+.bases{
+	min-width:120px;
+	width:130px;
+	height:25px;
+	float:right;
+}
+
+.bases a{
+	color:#6f6f6f;
+	font-size:12px;
+}
+
+.bases a:hover{
+	color:#d4114b;
+	font-size:12px;
+}
+
+/*****************************************/
+
+	
+	

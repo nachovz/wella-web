@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<roles>
+	<role name='invalid' >
+		<view read='true' edit='true' delete='true' add='true'>inicio</view>
+		<view read='true' edit='true' delete='true' add='true'>participantes</view>
+		<view read='true' edit='true' delete='true' add='true'>trendvision</view>
+		<view read='true' edit='true' delete='true' add='true'>jurados</view>
+		<view read='true' edit='true' delete='true' add='true'>especialistas=teamartistico</view>
+		<view read='true' edit='true' delete='true' add='true'>especialistas=editorialistas</view>
+		<view read='true' edit='true' delete='true' add='true'>team</view>
+		<view read='true' edit='true' delete='true' add='true'>editorialistas</view>
+		<view read='true' edit='true' delete='true' add='true'>reto=1</view>
+		<view read='true' edit='true' delete='true' add='true'>reto=2</view>
+		<view read='true' edit='true' delete='true' add='true'>reto=3</view>
+		<view read='true' edit='true' delete='true' add='true'>reto=4</view>
+		<view read='true' edit='true' delete='true' add='true'>reto=5</view>
+		<view read='true' edit='true' delete='true' add='true'>reto=6</view>
+	</role>
+	
+</roles>

@@ -1,0 +1,313 @@
+<?xml version="1.0"?>
+<webs>
+	<web>
+		<nombre>ERNESTO</nombre>
+		<apellido>ABREU</apellido>
+		<estado>Monagas</estado>
+		<salon>Arden's Style Peluqueria Unisex</salon>
+		<direccion>Carretera vía San Jaime C.C. Punto Express, Nivel PB, Local 35. Sector Las Islas. Maturín.</direccion>
+		<especialidad>Integral</especialidad>
+		<experiencia>16</experiencia>
+		<foto>participantes/ernesto_abreu.jpg</foto>
+	</web>
+	<web>
+		<nombre>CÉSAR</nombre>
+		<apellido>CHIRINOS</apellido>
+		<estado>Lara</estado>
+		<salon>Backstage C.A.</salon>
+		<direccion>Av. Los Leonos C.C. Boulevard Plaza Nivel 1 Local 24 Zona Este, Barquisimeto.</direccion>
+		<especialidad>Integral</especialidad>
+		<experiencia>7</experiencia>
+		<foto>participantes/cesar_chirinos.jpg</foto>
+	</web>
+	<web>
+		<nombre>EDUARDO</nombre>
+		<apellido>ZAMORA</apellido>
+		<estado>Carabobo</estado>
+		<salon>Eduardo's</salon>
+		<direccion>Av. Ppal Urb. La Isabelica, Sector 2, vía Clinica Sta. Bárbara, Casa N° 21, frente a calle D. Valencia.</direccion>
+		<especialidad>Integral</especialidad>
+		<experiencia>19</experiencia>
+		<foto>participantes/eduardo_zamora.jpg</foto>
+	</web>
+	<web>
+		<nombre>MARIANGEL</nombre>
+		<apellido>HERRERA</apellido>
+		<estado>Carabobo</estado>
+		<salon>D G S Team C.A.</salon>
+		<direccion>Calle 137 C.C Profesional Montebianco, Nivel PB, Local 28, Sector Los Sauces, Valencia.</direccion>
+		<especialidad>Color Styling Corte</especialidad>
+		<experiencia>12</experiencia>
+		<foto>participantes/mariangel_herrera.jpg</foto>
+	</web>
+	<web>
+		<nombre>MANUEL</nombre>
+		<apellido>LÓPEZ</apellido>
+		<estado>Lara</estado>
+		<salon>Styles &amp; Tendances C.A.</salon>
+		<direccion>Av. Madrid C/Calle 1A, Urb El Parque, CC Alfa PB, Local 8 y 13. Barquisimeto.</direccion>
+		<especialidad>Maquillaje, Moños</especialidad>
+		<experiencia>10</experiencia>
+		<foto>participantes/manuel_lopez.jpg</foto>
+	</web>
+	<web>
+		<nombre>JAIRO</nombre>
+		<apellido>DÍAZ</apellido>
+		<estado>Distrito Capital</estado>
+		<salon>Grecia Belleza Integral C.A.</salon>
+		<direccion>Av. Francisco de Miranda, Edif. Parque Cristal, Pico 1, Ofic. CC1-28, Los Palos Grandes. Caracas.</direccion>
+		<especialidad>Integral, Cabello</especialidad>
+		<experiencia>16</experiencia>
+		<foto>participantes/jairo_diaz.jpg</foto>
+	</web>
+	<web>
+		<nombre>EDUARDO</nombre>
+		<apellido>MORALES</apellido>
+		<estado>Carabobo</estado>
+		<salon>Salón Amarama Studio VIP</salon>
+		<direccion>Urb. La Trigaleña. C.C. la Trigaleña Plaza. P.B. Local L8 A1.</direccion>
+		<especialidad>Maquillaje, Peinado, Químico</especialidad>
+		<experiencia>12</experiencia>
+		<foto>participantes/eduardo_morales.jpg</foto>
+	</web>
+	<web>
+		<nombre>ESTEBAN</nombre>
+		<apellido>ASCANIO</apellido>
+		<estado>Aragua</estado>
+		<salon>Esteban Ascanio Hair's Style,C.A.</salon>
+		<direccion>Av. Las Delicias CC y Profesional Paseo Las Delicias I, Nivel PB, Local P169, detrás del Restaurante Lo Spuntino. Maracay.</direccion>
+		<especialidad>Color</especialidad>
+		<experiencia>14</experiencia>
+		<foto>participantes/esteban_ascanio.jpg</foto>
+	</web>
+	<web>
+		<nombre>LEXANDER</nombre>
+		<apellido>FUENMAYOR</apellido>
+		<estado>Zulia</estado>
+		<salon>Corporación Leo Mercado</salon>
+		<direccion>Av. El Milagro CC Lago Mall, 1er. Nivel, Local 16CD, Maracaibo.</direccion>
+		<especialidad>Integral</especialidad>
+		<experiencia>9</experiencia>
+		<foto>participantes/lexander_fuenmayor.jpg</foto>
+	</web>
+	<web>
+		<nombre>DAVID</nombre>
+		<apellido>CASTELLANO</apellido>
+		<estado>Distrito Capital</estado>
+		<salon>Producciones Carlos Aguilar, C.A.</salon>
+		<direccion>Av. Ppal del Cafetal, CC Plaza Las Americas, I Etapa N°3, Nivel Cristal, Local 327. Caracas.</direccion>
+		<especialidad>Integral</especialidad>
+		<experiencia>13</experiencia>
+		<foto>participantes/gabriel_castellano.jpg</foto>
+	</web>
+	<web>
+		<nombre>MARLY</nombre>
+		<apellido>BARCO</apellido>
+		<estado>Táchira</estado>
+		<salon>Senovia Torrealba Personal Care Salones de Belleza S.A.</salon>
+		<direccion>Av. Séptima entre calle 14 y 15, Edif. Mariana PB, San Cristóbal.</direccion>
+		<especialidad>Maquillaje, Químico</especialidad>
+		<experiencia>10</experiencia>
+		<foto>participantes/marly_barco.jpg</foto>
+	</web>
+	<web>
+		<nombre>HÉCTOR</nombre>
+		<apellido>GONZÁLEZ</apellido>
+		<estado>Bolívar</estado>
+		<salon>Arte Salón, C.A.</salon>
+		<direccion>Av. Guayana y PROL., Av. Las Americas CC Orinokia Mall, Nivel Oro, Local 032 Alta. Puerto Ordaz.</direccion>
+		<especialidad>Integral</especialidad>
+		<experiencia>3</experiencia>
+		<foto>participantes/hector_gonzalez.jpg</foto>
+	</web>
+	<web>
+		<nombre>RHAIZA</nombre>
+		<apellido>MARÍN</apellido>
+		<estado>Nueva Esparta</estado>
+		<salon>Rhaiza Del Valle Marín Moya</salon>
+		<direccion>Calle vía Aguarima, casa N° 1, La Fuente, Sector La Fuente, Entrada vía Gicogreca. Margarita.</direccion>
+		<especialidad>Color</especialidad>
+		<experiencia>9</experiencia>
+		<foto>participantes/raiza_marin.jpg</foto>
+	</web>
+	<web>
+		<nombre>TOMÁS</nombre>
+		<apellido>DÍAZ</apellido>
+		<estado>Carabobo</estado>
+		<salon>Tomás Enrrique Díaz Blanco</salon>
+		<direccion>Calle 31, Urb. Grande, Edif. Faby-Luis. Puerto Cabello.</direccion>
+		<especialidad>Integral</especialidad>
+		<experiencia>15</experiencia>
+		<foto>participantes/tomas_diaz.jpg</foto>
+	</web>
+	<web>
+		<nombre>ERICK</nombre>
+		<apellido>CARUCI</apellido>
+		<estado>Carabobo</estado>
+		<salon>Salón Amarama Studio VIP</salon>
+		<direccion>Urb. La Trigaleña. C.C. la Trigaleña Plaza. P.B. Local L8 A1.</direccion>
+		<especialidad>Química</especialidad>
+		<experiencia>16</experiencia>
+		<foto>participantes/erick_carusi.jpg</foto>
+	</web>
+	<web>
+		<nombre>CLAUDIA</nombre>
+		<apellido>BERMUDEZ</apellido>
+		<estado>Zulia</estado>
+		<salon>Zazzera, C.A.</salon>
+		<direccion>Calle 71 con Av. 3G, Hotel Santa Bárbara, Local 01. Maracaibo.</direccion>
+		<especialidad>Corte, Color</especialidad>
+		<experiencia>5</experiencia>
+		<foto>participantes/claudia_bermudez.jpg</foto>
+	</web>
+	<web>
+		<nombre>ELIO</nombre>
+		<apellido>QUINTERO</apellido>
+		<estado>Mérida</estado>
+		<salon>Alondra Salón de Belleza C.A.</salon>
+		<direccion>Av. 4 Bolívar, casa N° 17-38, zona centro de la ciudad. Mérida.</direccion>
+		<especialidad>Integral</especialidad>
+		<experiencia>20</experiencia>
+		<foto>participantes/elio_quintero.jpg</foto>
+	</web>
+	<web>
+		<nombre>HEGEL</nombre>
+		<apellido>SÁNCHEZ</apellido>
+		<estado>Zulia</estado>
+		<salon>Corporación Leo Mercado</salon>
+		<direccion>Av. El Milagro CC Lago Mall, 1er. Nivel, Local 16CD, Maracaibo.</direccion>
+		<especialidad>Química</especialidad>
+		<experiencia>10</experiencia>
+		<foto>participantes/hegel_sanchez.jpg</foto>
+	</web>
+	<web>
+		<nombre>ALEXANDER</nombre>
+		<apellido>CONTRERAS</apellido>
+		<estado>Distrito Capital</estado>
+		<salon>Salón Lacksmy</salon>
+		<direccion>Av. Urdaneta Esquina de Animas, La Candelaria, Edf.Iberia. PB. Caracas.</direccion>
+		<especialidad>Color</especialidad>
+		<experiencia>9</experiencia>
+		<foto>participantes/alexander_contretras.jpg</foto>
+	</web>
+	<web>
+		<nombre>ASOID</nombre>
+		<apellido>NIEVES</apellido>
+		<estado>Mérida</estado>
+		<salon>Nieves Zambrano Asoid</salon>
+		<direccion>Av. Cardenal Quintero LC N°4. Entre Av. Las Américas y Los Próceres. Mérida.</direccion>
+		<especialidad>Color</especialidad>
+		<experiencia>9</experiencia>
+		<foto>participantes/asoid_nieves.jpg</foto>
+	</web>
+	<web>
+		<nombre>JESÚS</nombre>
+		<apellido>MARIANI</apellido>
+		<estado>Mónagas</estado>
+		<salon>Estudio de Belleza Abelardo &amp; Abelardo, C.A.</salon>
+		<direccion>Av. Miranda N° 111, frente a Variedades Janett. Maturín.</direccion>
+		<especialidad>Integral</especialidad>
+		<experiencia>14</experiencia>
+		<foto>participantes/jesus_mariani.jpg</foto>
+	</web>
+	<web>
+		<nombre>NERIMAR</nombre>
+		<apellido>FAJARDO</apellido>
+		<estado>Aragua</estado>
+		<salon>Mussa El Mundo Natural de la Belleza, C.A.</salon>
+		<direccion>Av. Ppal. de Las Mercedes, Sector 1, CC Victoria Local 2, al lado de la Panadería La Victoria. Edo. Aragua.</direccion>
+		<especialidad>Corte, Color</especialidad>
+		<experiencia>16</experiencia>
+		<foto>participantes/nerimar_fajardo.jpg</foto>
+	</web>
+	<web>
+		<nombre>JEAN PAUL</nombre>
+		<apellido>BLANCO</apellido>
+		<estado>Cojedes</estado>
+		<salon>Jean Paul  Blanco Calvo</salon>
+		<direccion>Av. Caracas, casa 12-59, entre calles Independencia y calle Vargas, al frente del PSUV. San Carlos.</direccion>
+		<especialidad>Color</especialidad>
+		<experiencia>10</experiencia>
+		<foto>participantes/jean_blanco.jpg</foto>
+	</web>
+	<web>
+		<nombre>ROMY</nombre>
+		<apellido>NIÑO</apellido>
+		<estado>Táchira</estado>
+		<salon>Romy Studio's, C.A.</salon>
+		<direccion>Carrera 18 C/ calle 15, Local N° 01, Barrio Obrero. San Cristóbal.</direccion>
+		<especialidad>Maquillaje, Color, Peinado</especialidad>
+		<experiencia>12</experiencia>
+		<foto>participantes/romy_nino.jpg</foto>
+	</web>
+	<web>
+		<nombre>CRISTIAN</nombre>
+		<apellido>LÓPEZ</apellido>
+		<estado>Anzoátegui</estado>
+		<salon>Cristian´s Beuty Salon's</salon>
+		<direccion>2da. Carrera Sur entre 1era. y 2da. Calle Sur. Frente a la lavandería Superior. El Tigre. Edo. Anzoátegui.</direccion>
+		<especialidad>Integral</especialidad>
+		<experiencia>9</experiencia>
+		<foto>participantes/christian_lopez.jpg</foto>
+	</web>
+	<web>
+		<nombre>JONATHAN</nombre>
+		<apellido>MORALES</apellido>
+		<estado>Zulia</estado>
+		<salon>Studio de Belleza José Luis</salon>
+		<direccion>Sector Panamericano, Av. 77 frente a los Combinado La Victoria, Piso 1. Maracaibo.</direccion>
+		<especialidad>Integral</especialidad>
+		<experiencia>10</experiencia>
+		<foto>participantes/jonathan_morales.jpg</foto>
+	</web>
+	<web>
+		<nombre>BETTY</nombre>
+		<apellido>GALVIZ</apellido>
+		<estado>Distrito Capital</estado>
+		<salon>Atelier de Belleza Terifeth Style, S.A</salon>
+		<direccion>Final Av. Paéz, CC Galerías Paraíso, Nivel Paraíso, Local 41-42. Caracas.</direccion>
+		<especialidad>Integral</especialidad>
+		<experiencia>17</experiencia>
+		<foto>participantes/betty_galviz.jpg</foto>
+	</web>
+	<web>
+		<nombre>JESÚS</nombre>
+		<apellido>SEQUERA</apellido>
+		<estado>Distrito Capital</estado>
+		<salon>Producciones Carlos Aguilar, C.A.</salon>
+		<direccion>Av. Ppal del Cafetal, CC Plaza Las Americas, I Etapa N°3, Nivel Cristal, Local 327. Caracas.</direccion>
+		<especialidad>Integral</especialidad>
+		<experiencia>10</experiencia>
+		<foto>participantes/jesus_sequera.jpg</foto>
+	</web>
+	<web>
+		<nombre>KIRWIN</nombre>
+		<apellido>MALAVÉ</apellido>
+		<estado>Distrito Capital</estado>
+		<salon>Carlos García Studio de Belleza, C.A.</salon>
+		<direccion>C.C. Vista Place, Nivel Mirador. Guatire. Caracas</direccion>
+		<especialidad>Maquillaje, Integral</especialidad>
+		<experiencia>6</experiencia>
+		<foto>participantes/kirwin_malave.jpg</foto>
+	</web>
+	<web>
+		<nombre>VICTOR</nombre>
+		<apellido>PALERMO</apellido>
+		<estado>Carabobo</estado>
+		<salon>Miguelangel. Cover Look</salon>
+		<direccion>C.C. La Viña Siglo 21. PB. Urb. La Viña. Valencia.</direccion>
+		<especialidad>Integral</especialidad>
+		<experiencia>12</experiencia>
+		<foto>participantes/victor_palermo.jpg</foto>
+	</web>
+	<web>
+		<nombre>EDGARD</nombre>
+		<apellido>DELGADO</apellido>
+		<estado>Distrito Capital</estado>
+		<salon>Peluquería Margot</salon>
+		<direccion>CC Plaza Las Americas I Etapa, Piso 2. Caracas.</direccion>
+		<especialidad>Maquillaje, Integral</especialidad>
+		<experiencia>13</experiencia>
+		<foto>participantes/edgard_delgado.jpg</foto>
+	</web>
+</webs>

@@ -1,0 +1,299 @@
+@charset "utf-8";
+/* CSS Document */
+#mainContent{
+	height:397px;
+	margin-top:-20px;
+	clear:both;
+	padding-bottom:40px;
+}
+
+#default-content{
+	padding:0px;
+}
+
+h2{
+	font-size:25px;
+	text-align:left;
+	font-family:"ClNwBookOf";
+	color:#6f6f6f;
+}
+
+h2 span{
+	font-family:"ClNwMediumLf";
+}
+
+p{
+	font-size:11px;
+	text-align:left;
+	font-family:"ClNwBookOf";
+	color:#6f6f6f;
+	margin-top:-10px;
+}
+
+/*****************************************/
+
+.sub{
+	border-style: dashed; 
+    border-width: 1px; 
+    border-color: #6f6f6f; 
+	height:20px;
+	width:100%;
+	border-top:0px;
+	border-left:0px;
+	border-right:0px;
+	padding-top:0px;
+}
+
+
+/*****************************************slider *********************************/
+#slider{
+	width:674px;
+	height:20px;
+	margin:auto;
+	margin-top:10px;
+}
+
+#slider ul, #slider li,
+	#slider2 ul, #slider2 li{
+		margin:0;
+		padding:0;
+		list-style:none;
+		
+		}
+	#slider2{margin-top:1em;}
+	#slider li, #slider2 li{ 
+		/* 
+			define width and height of list item (slide)
+			entire slider area will adjust according to the parameters provided here
+		*/ 
+		width:604px;
+		height:20px;
+		overflow:hidden;
+		float:left; 
+		}	
+	#prevBtn, #nextBtn,
+	#slider1next, #slider1prev{ 
+		display:block;
+		width:10px;
+		height:12px;
+		position:absolute;
+		margin-top:-15px;
+		margin-left:15px;
+		z-index:1000;
+		float:right;
+		}	
+	#nextBtn, #slider1next{ 
+		left:690px;
+		}														
+	#prevBtn a, #nextBtn a,
+	#slider1next a, #slider1prev a{  
+		display:block;
+		position:relative;
+		width:10px;
+		height:12px;
+		background:url(../images/1_13.jpg) no-repeat;
+		
+		}	
+	#nextBtn a, #slider1next a{ 
+		background:url(../images/1_16.jpg) no-repeat;
+		
+		}	
+	#nextBtn a:hover, #slider1next a:hover{ 
+		background:url(../images/1_16.jpg) no-repeat;
+		}	
+	#prevBtn a:hover, #slider1prev a:hover{ 
+		background:url(../images/1_13.jpg) no-repeat;
+		}	
+		
+	
+#slider ul{
+	margin-top:0px;
+	height:20px;
+	
+	
+}	
+
+#slider ul li img{
+	border:1px #6f6f6f solid;
+}
+
+/***************************** jurados ****************************/
+.foto_jurado{
+	min-width:278px;
+	width:280px;
+	height:295px;
+	border:4px #d4114b solid;
+	float:left;
+	border-top:0px;
+	border-left:0px;
+	border-right:0px;
+}
+
+.texto{
+	float:left;
+	padding-left:30px;
+	min-width:390px;
+	width:430px;
+	margin-top:-25px;
+	
+}
+/********************************************************/
+#header{
+	height: 100px;
+}
+
+ul.menu_especialistas{
+	min-width:590px;
+	width:600px;
+	height:20px;
+	float:right;
+	
+}
+
+ul.menu_especialistas li{
+	float:left;
+	font-size:20px;
+	color:#969699;
+	padding-right:10px;
+}
+
+ul.menu_especialistas li a{
+	color:#969699;
+}
+
+ul.menu_especialistas li.seleccionado, ul.menu_especialistas li.seleccionado a{
+	color:#ce1141;
+}
+
+.separa_sub{
+	margin-top:5px;
+}
+
+.foto_all{
+	margin:auto;
+	min-width:490px;
+	width:495px;
+	height:364px;
+	border:4px #d4114b solid;
+	border-top:0px;
+	border-left:0px;
+	border-right:0px;
+}
+
+.names{
+	min-width:674px;
+	width:674px;
+	height:20px;
+	float:left;
+	margin:auto;
+	margin-top:10px;
+	text-align:center;
+}
+
+.names p{
+	float:left;
+	font-size:15px;
+	color:#6f6f6f;
+	padding-right:10px;
+}
+
+.names p a{
+	float:left;
+	font-size:15px;
+	color:#6f6f6f;
+}
+
+/*****************************************/
+.names_editorial{
+	min-width:574px;
+	width:574px;
+	height:20px;
+	float:left;
+	margin-top:10px;
+}
+
+.names_editorial p{
+	float:left;
+	font-size:15px;
+	color:#6f6f6f;
+	padding-right:5px;
+}
+
+.names_editorial p a{
+	float:left;
+	font-size:15px;
+	color:#6f6f6f;
+}
+
+/*****************************************slider *********************************/
+#slider_editorial{
+	width:574px;
+	height:20px;
+	margin:auto;
+	margin-top:10px;
+}
+
+#slider_editorial ul, #slider_editorial li,
+	#slider_editorial2 ul, #slider_editorial2 li{
+		margin:0;
+		padding:0;
+		list-style:none;
+		
+		}
+	#slider_editorial2{margin-top:1em;}
+	#slider_editorial li, #slider_editorial2 li{ 
+		/* 
+			define width and height of list item (slide)
+			entire slider_editorial area will adjust according to the parameters provided here
+		*/ 
+		width:484px;
+		height:20px;
+		overflow:hidden;
+		float:left; 
+		}	
+	#prevBtn, #nextBtn,
+	#slider_editorial1next, #slider_editorial1prev{ 
+		display:block;
+		width:10px;
+		height:12px;
+		position:absolute;
+		margin-top:-15px;
+		margin-left:15px;
+		z-index:1000;
+		float:right;
+		}	
+	#nextBtn, #slider_editorial1next{ 
+		left:690px;
+		}														
+	#prevBtn a, #nextBtn a,
+	#slider_editorial1next a, #slider_editorial1prev a{  
+		display:block;
+		position:relative;
+		width:10px;
+		height:12px;
+		background:url(../images/1_13.jpg) no-repeat;
+		
+		}	
+	#nextBtn a, #slider_editorial1next a{ 
+		background:url(../images/1_16.jpg) no-repeat;
+		
+		}	
+	#nextBtn a:hover, #slider_editorial1next a:hover{ 
+		background:url(../images/1_16.jpg) no-repeat;
+		}	
+	#prevBtn a:hover, #slider_editorial1prev a:hover{ 
+		background:url(../images/1_13.jpg) no-repeat;
+		}	
+		
+	
+#slider_editorial ul{
+	margin-top:0px;
+	height:20px;
+	
+	
+}	
+
+#slider_editorial ul li img{
+	border:1px #6f6f6f solid;
+}
+

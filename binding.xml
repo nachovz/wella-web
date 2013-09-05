@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<views>
+	<view name="inicio" url="inicio.php" template="menu" styles="default.css"/>
+	<view name="participantes" url="participantes.php" template="default" styles="participantes.css" class="ParticipantesDelegate">
+		<getter destination="participantes">loadParticipantes</getter>
+	</view>
+	<view name="trendvision" url="trendvision.php" template="default" styles="trendvision.css"/>
+	<view name="jurados" url="jurados.php" template="default" styles="jurados.css"/>
+	<view name="especialistas=teamartistico" url="especialistas_artisticos.php" template="default" styles="especialistas.css"/>
+	<view name="especialistas=editorialistas" url="especialistas_editorialistas.php" template="default" styles="especialistas.css"/>
+	<view name="team" url="team.php" template="default" styles="team.css"/>
+	<view name="editorialistas" url="editorialistas.php" template="default" styles="editorialistas.css"/>
+	<view name="reto=1" url="reto1.php" template="default" styles="retos.css"/>
+	<view name="reto=2" url="reto2.php" template="default" styles="retos.css"/>
+	<view name="reto=3" url="reto3.php" template="default" styles="retos.css"/>
+	<view name="reto=4" url="reto4.php" template="default" styles="retos.css"/>
+	<view name="reto=5" url="reto5.php" template="default" styles="retos.css"/>
+	<view name="reto=6" url="reto6.php" template="default" styles="retos.css"/>
+</views>

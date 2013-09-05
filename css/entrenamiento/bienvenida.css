@@ -1,0 +1,62 @@
+ul#tabs {
+	margin: 20px 0 0 83px;
+	height: 78px;
+}
+ul#tabs li {
+	display: inline;
+	float: left;
+	height: 71px;
+	width: 140px;
+	background: url("../../images/entrenamiento/bienvenida/fondo50.png") no-repeat;
+	font-size: 1.5em;
+	margin-right: 20px;
+	padding-top: 7px;
+	text-align: center;
+	color: #000;
+}
+
+ul#tabs li span{
+	position:relative;
+	top: 5px;
+}
+
+ul#tabs li.seleccionado {
+	background: url("../../images/entrenamiento/bienvenida/fondo100.png") no-repeat;
+	
+}
+ul#tabs li.seleccionado span{
+	font-weight: bold;
+}
+
+div#tabContent {
+	border: solid 1px #292929;
+	margin: 25px 0 0 123px;
+	width: 778px;
+	height: 355px;
+	overflow-y: auto;
+}
+div#tabContent div {
+	padding: 20px;
+	font-size: 0.9em;
+}
+
+div#siguiente {
+	width: 208px;
+	height: 49px;
+	background: url("../../images/entrenamiento/bienvenida/siguientebtn.png") no-repeat;
+	cursor: pointer;
+	margin: 30px auto 30px auto;
+}
+
+div#mensaje {
+	background: #f00;
+	color: #fff;
+	position: fixed;
+	top:0;
+	left: 0;
+	width: 100%;
+	display: none;
+	text-align: center;
+	padding: 10px;
+	font-size: 1.5em;
+}

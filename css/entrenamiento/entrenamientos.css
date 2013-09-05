@@ -1,0 +1,187 @@
+
+
+/* Lista de lenguajes*/
+#lenguajes {
+	clear: both;
+}
+#flechaIzquierda, #flechaDerecha {
+	width: 19px;
+	height:29px;
+	position: relative;
+	top: 12px;
+}
+
+#flechaIzquierda  {
+	background: url("../../images/entrenamiento/entrenamientos/left.png") no-repeat;
+	float: left;
+}
+
+#flechaDerecha  {
+	background: url("../../images/entrenamiento/entrenamientos/right.png") no-repeat;
+	float: right;
+}
+
+#contenedorLenguajes {
+	margin: 0 auto;
+	overflow: hidden;
+	width: 925px;
+	height:51px;
+	padding: 0;
+}
+
+#contenedorLenguajes ul {
+	margin: 0;
+	height:51px;
+	padding: 0;
+}
+
+#contenedorLenguajes li {
+	width: 86px;
+	height: 51px;
+	background: url("../../images/entrenamiento/entrenamientos/botones.png") no-repeat;
+	text-indent: -100px;
+	overflow: hidden;
+	float: left;
+	margin-left: 6px;
+	list-style: none;
+	cursor: pointer;
+}
+
+#contenedorLenguajes li.php {
+	background-position: 0 1px;
+}
+
+#contenedorLenguajes li.java {
+	background-position: -93px 1px;
+}
+
+#contenedorLenguajes li.html {
+	background-position: -186px 1px;
+}
+
+#contenedorLenguajes li.css {
+	background-position: -279px 1px;
+}
+
+#contenedorLenguajes li.flex {
+	background-position: -372px 1px;
+}
+
+#contenedorLenguajes li.csharp {
+	background-position: -465px 1px;
+}
+
+#contenedorLenguajes li.js {
+	background-position: -558px 1px;
+}
+
+#contenedorLenguajes li.ruby {
+	background-position: -651px 1px;
+}
+
+#contenedorLenguajes li.cplusplus {
+	background-position: -744px 1px;
+}
+
+#contenedorLenguajes li.pascal {
+	background-position: -837px 1px;
+}
+
+/* Lista de dias */
+#botonCerrar {
+	width: 42px;
+	height: 46px;
+	float: right;
+	background: url("../../images/entrenamiento/entrenamientos/x.png") no-repeat;
+	position: relative;
+	top: 46px;
+	left: -4px;
+	cursor: pointer;
+}
+#dias {
+	clear: both;
+	margin: 0px auto;
+	width: 902px;
+	position: relative;
+	top: 0px;
+	color: #fff;
+	border: 2px solid #1e1e1e;
+}
+
+#diasContainer {
+	background: #1e1e1e;
+	margin-top: -16px;
+	height: 48px;
+}
+#diasContainer li {
+	list-style: none;
+	float: left;
+	font-family: "Just another hand", "sans serif";
+	font-size: 2.5em;
+	width: 76px;
+	color: #4c4c4c;
+}
+
+#diasContainer li.dia{
+	cursor: pointer;
+}
+
+#diasContainer li span {
+	background: #4c4c4c;
+	width: 47px;
+	height: 3px;
+	display: block;
+	position: relative;
+	top: 23px;
+}
+
+#diasContainer li.seleccionado {
+	color: #fff;
+}
+/* Descripcion entrenamiento */
+
+div#bajarArchivos{
+	width: 226px;
+	color: #fff;
+	float:left;
+	position: relative;
+	top: 36px;
+	left: 111px;
+	text-align: center;
+	font-size: 2em;
+}
+
+#descripcionEntrenamiento {
+	width: 435px;
+	position: relative;
+	left: -35px;
+	top: 28px;
+	float: right;
+	margin-bottom: 50px;
+}
+
+#informe {
+	clear: both;
+	margin-left: 50px;
+}
+
+#informe h2 {
+	color: #F93;
+}
+
+#informe textarea {
+	width: 806px;
+	height: 101px;
+}
+
+#informe #enviarInforme{
+	height: 41px;
+	width: 178px;
+	margin-top: 20px;
+}
+
+#informe #caracteres{
+	position: relative;
+	top:-26px;
+	left: 8px;
+}

@@ -1,0 +1,174 @@
+@charset "utf-8";
+/* CSS Document */
+#mainContent{
+	height:390px;
+	margin-top:20px;
+	clear:both;
+	padding-bottom:60px;
+}
+
+.large{
+	padding-bottom:60px;
+}
+
+#default-content{
+	padding:0px;
+}
+
+#play_video{
+	float:left;
+	min-width:278px;
+	width:278px;
+	height:292px;
+	margin-top:0px;
+}
+
+.border{
+	min-width:278px;
+	width:278px;
+	height:43px;
+	background:url(../images/retos/border_reto.jpg) no-repeat;
+	margin-top:-5px;
+}
+
+#texto{
+	float:left;
+	min-width:431px;
+	width:431px;
+	padding-left:30px;
+	margin-top:-25px;
+	text-align:justify;
+}
+
+
+h2{
+	font-size:25px;
+	text-align:left;
+	font-family:"ClNwBookOf";
+	color:#6f6f6f;
+	text-transform:uppercase;
+}
+
+h2 span{
+	font-family:"ClNwMediumLf";
+}
+
+p{
+	font-size:11px;
+	text-align:left;
+	font-family:"ClNwBookOf";
+	color:#6f6f6f;
+	margin-top:-10px;
+}
+
+.logo_e{
+	clear:both;
+	min-width:66px;
+	width:66px;
+	height:107px;
+	float:left;
+	background:url(../images/trendvision/1_07.jpg) no-repeat;
+}
+
+/*****************************************/
+
+.sub{
+	border-style: dashed; 
+    border-width: 1px; 
+    border-color: #6f6f6f; 
+	height:20px;
+	width:100%;
+	border-top:0px;
+	border-left:0px;
+	border-right:0px;
+	padding-top:0px;
+}
+
+
+.pasos{
+	min-width_74px;
+	width:74px;
+	height:74px;
+	float:right;
+	padding-left:10px;
+	padding-right:10px;
+	
+}
+
+/*****************************************slider *********************************/
+
+
+#slider ul, #slider li,
+	#slider2 ul, #slider2 li{
+		margin:0;
+		padding:0;
+		list-style:none;
+		
+		}
+	#slider2{margin-top:1em;}
+	#slider li, #slider2 li{ 
+		/* 
+			define width and height of list item (slide)
+			entire slider area will adjust according to the parameters provided here
+		*/ 
+		width:431px;
+		height:120px;
+		overflow:hidden;
+		float:left; 
+		}	
+	#prevBtn, #nextBtn,
+	#slider1next, #slider1prev{ 
+		display:block;
+		width:10px;
+		height:12px;
+		position:absolute;
+		margin-top:-20px;
+		margin-left:395px;
+		z-index:1000;
+		float:right;
+		}	
+	#nextBtn, #slider1next{ 
+		left:325px;
+		}														
+	#prevBtn a, #nextBtn a,
+	#slider1next a, #slider1prev a{  
+		display:block;
+		position:relative;
+		width:10px;
+		height:12px;
+		background:url(../images/1_13.jpg) no-repeat;
+		
+		}	
+	#nextBtn a, #slider1next a{ 
+		background:url(../images/1_16.jpg) no-repeat;
+		
+		}	
+	#nextBtn a:hover, #slider1next a:hover{ 
+		background:url(../images/1_16.jpg) no-repeat;
+		}	
+	#prevBtn a:hover, #slider1prev a:hover{ 
+		background:url(../images/1_13.jpg) no-repeat;
+		}	
+		
+	
+#slider ul{
+	margin-top:10px;
+}	
+
+#slider ul li img{
+	/*border:1px #6f6f6f solid;*/
+}
+
+/********************************************** RESULTADOS **********************/
+.final{
+	width:210px;
+	float:right;
+	margin-top:30px;
+	clear:both;
+}
+
+.final p{
+	text-align:right;
+	font-size:12px;
+	color:#c71139;
+}

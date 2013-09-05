@@ -1,0 +1,29 @@
+#mainMenuBanner div, #mainMenu{
+	width: 415px;
+}
+
+#mainMenu {
+	margin-left:0;
+}
+
+#mainContent{
+	color: white;
+	width: 100%;
+	margin: auto;
+	background: url(../../images/home/FondoBanners.png) no-repeat;
+	background-position: 0px 244px;
+}
+
+
+h1 {
+	font: normal 3.5em "Just another hand", sans, serif;
+	color: #fff;
+	margin: 50px 0 0 0;
+	letter-spacing: 0.03em;
+	text-shadow: 2px 2px 2px black;
+	text-align: center;
+}
+
+h1 span {
+	color: #F93;
+}

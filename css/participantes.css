@@ -1,0 +1,168 @@
+@charset "utf-8";
+/* CSS Document */
+#mainContent{
+	height:377px;
+	margin-top:20px;
+}
+
+#default-content{
+	padding:0px;
+	padding-bottom:30px;
+}
+
+.sub{
+	border-style: dashed; 
+    border-width: 1px; 
+    border-color: #6f6f6f; 
+	height:20px;
+	width:100%;
+	border-bottom:0px;
+	border-left:0px;
+	border-right:0px;
+}
+
+#slider{
+	height:100%;	
+}
+
+	
+
+.div_listas ul{
+	width:100%;
+	margin:auto;
+	list-style:none;
+	height:100%;
+	margin-left:-40px;
+}
+
+.div_listas ul li{
+	padding:0;
+	margin:auto;
+	width:774px;
+	height:100%;
+	
+}
+
+.participantes{
+	min-width:178px;
+	width:178px;
+	height:377px;
+	float:left;	
+}
+
+.div_separador{
+	min-width:10px;
+	width:10px;
+	height:377px;
+	float:left;
+}
+
+.img_part{
+	min-width:178px;
+	width:178px;
+	height:119px;
+	border-bottom:2px #d4114b solid;
+}
+
+h2{
+	font-size:13px;
+	text-align:left;
+	font-family:"ClNwBookOf";
+	color:#6f6f6f;
+	height:21px;
+	margin-top:5px;
+}
+
+h2 span{
+	font-family:"ClNwMediumLf";
+}
+
+p{
+	font-size:11px;
+	text-align:left;
+	font-family:"ClNwBookOf";
+	color:#6f6f6f;
+	margin-top:-10px;
+	line-height:20px;
+}
+
+/*****************************************/
+
+.controls{
+	float:right;
+	min-width:30px;
+	width:30px;
+	height:12px;
+	margin-top:10px;
+	clear:both;
+}
+/*
+#slider1prev{
+	min-width:10px;
+	width:10px;
+	height:12px;
+	background:url(../images/1_13.jpg) no-repeat;
+	float:left;
+	padding-right:10px;
+	
+}
+
+#slider1next{
+min-width:10px;
+	width:10px;
+	height:12px;
+	background:url(../images/1_16.jpg) no-repeat;
+	float:left;
+}*/
+
+#slider ul, #slider li,
+	#slider2 ul, #slider2 li{
+		margin:0;
+		padding:0;
+		list-style:none;
+		
+		}
+	#slider2{margin-top:1em;}
+	#slider li, #slider2 li{ 
+		/* 
+			define width and height of list item (slide)
+			entire slider area will adjust according to the parameters provided here
+		*/ 
+		width:750px;
+		height:377px;
+		overflow:hidden;
+		float:left; 
+		}	
+	#prevBtn, #nextBtn,
+	#slider1next, #slider1prev{ 
+		display:block;
+		width:10px;
+		height:12px;
+		position:absolute;
+		margin-top:10px;
+		margin-left:715px;
+		z-index:1000;
+		}	
+	#nextBtn, #slider1next{ 
+		left:20px;
+		}														
+	#prevBtn a, #nextBtn a,
+	#slider1next a, #slider1prev a{  
+		display:block;
+		position:relative;
+		width:10px;
+		height:12px;
+		background:url(../images/1_13.jpg) no-repeat;
+		
+		}	
+	#nextBtn a, #slider1next a{ 
+		background:url(../images/1_16.jpg) no-repeat;
+		}	
+	#nextBtn a:hover, #slider1next a:hover{ 
+		background:url(../images/1_16.jpg) no-repeat;
+		}	
+	#prevBtn a:hover, #slider1prev a:hover{ 
+		background:url(../images/1_13.jpg) no-repeat;
+		}	
+		
+	
