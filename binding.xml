@@ -16,4 +16,6 @@
 	<view name="reto=4" url="reto4.php" template="default" styles="retos.css"/>
 	<view name="reto=5" url="reto5.php" template="default" styles="retos.css"/>
 	<view name="reto=6" url="reto6.php" template="default" styles="retos.css"/>
+	<view name="terminos_condiciones" url="terminos_condiciones.php" template="default" styles="terminos_condiciones.css"/>
+	<view name="vota" url="vota.php" template="default" styles="vota.css"/>
 </views>

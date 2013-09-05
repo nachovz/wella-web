@@ -74,8 +74,8 @@ $GLOBALS["frendlyURL"] = true;
 /*--------FRENDLY URL DEFINITIONS----------*/
 //$local = $_SERVER['REMOTE_ADDR'] === '127.0.0.1';
 //if($local):
-	$GLOBALS["baseURL"] = "http://localhost/wella/";
-	$GLOBALS["secureBaseURL"] = "https:/localhost/wella/";
+	$GLOBALS["baseURL"] = "http://localhost/wella-web/";
+	$GLOBALS["secureBaseURL"] = "https:/localhost/wella-web/";
 //else:
 //	$GLOBALS["baseURL"] = "http://geekies.co/wella/";
 //	$GLOBALS["secureBaseURL"] = "https://geekies.co/wella/";

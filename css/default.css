@@ -341,7 +341,7 @@ a{
 /******************************************* header ************************************************/
 
 ._footer{
-	background:url(../images/1_11.jpg) no-repeat;
+	background:url(../images/fondo-footer.jpg) no-repeat;
 	height:119px;
 }
 
@@ -436,10 +436,20 @@ a{
 	cursor:pointer;
 }
 
+.elemMenuHeaderLinks.twoLines{
+	padding: 8px 0 0;
+}
+
 .elemMenuHeaderLinks a, .elemMenuHeaderLinks p{
 	font-size: 14px;
 	font-family: "ClNwBookOf";
 	color:#969699;
+}
+
+.elemMenuHeaderLinks.twoLines a{
+	width: 99px;
+	display: inline-block;
+	text-align: center;
 }
 
 ul#menuHeaderLinksTm li.elemMenuHeaderLinks a{ 

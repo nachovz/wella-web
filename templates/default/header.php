@@ -26,9 +26,9 @@
                 </ul>
                 </li>	
                 <li class="elemMenuHeaderSeparador"><div class="separador"></li>		
-				<li class="elemMenuHeaderLinks <?php currentPage('jurados'); ?>"><a href="<?php setView('jurados'); ?>">JURADO</a></li>
+				<li class="elemMenuHeaderLinks <?php currentPage('vota'); ?>"><a href="<?php setView('vota'); ?>">VOTA</a></li>
                 <li class="elemMenuHeaderSeparador"><div class="separador"></li>
-                <li class="elemMenuHeaderLinks <?php currentPage('especialistas=editorialistas'); ?> <?php currentPage('editorialistas'); ?>"><a href="<?php setView('especialistas=editorialistas'); ?>">EDITORIALISTAS</a></li>
+                <li class="elemMenuHeaderLinks twoLines <?php currentPage('terminos_condiciones'); ?>"><a href="<?php setView('terminos_condiciones'); ?>">TERMINOS <br> Y CONDICIONES</a></li>
 		</ul>
         <div class="sub_header"></div>	
  </div>
