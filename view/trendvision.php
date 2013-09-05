@@ -8,10 +8,6 @@
 		<p>Toda Venezuela seguirá el concurso a través de las redes sociales, podrán votar por su participante favorito y salvar a aquellos que han sido amenazados, a la vez que podrán vivir de cerca junto a nuestros Editorialistas todas las emociones de esta competencia.</p>
 		<p>El jurado seleccionado posee una amplia experiencia en moda, estilos y sobre todo vanguardia en cuanto a cabello se refiere y tendrá la difícil tarea de seleccionar al ganador que representará a Venezuela en el International Trend Vision Award 2012 a realizarse en la ciudad de Madrid, España.</p>
 		<p>Vive de cerca esta competencia y sé protagonista de los resultados.</p>
-        <div class="logo_e"></div>
-        <div class="bases">
-        	<a href="<?php echo $GLOBALS["baseURL"].'bases/bases_del_concurso.pdf'; ?>" target="_blank"><b>Bases del Concurso</b></a>
-        </div>
     </div>
     
 </div>

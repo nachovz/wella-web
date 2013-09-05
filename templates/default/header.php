@@ -6,7 +6,7 @@
 <div id="header_default">	
 		<a href="<?php setView('inicio'); ?>"><div id="logo_header"></div></a>	
         <ul id="menuHeaderLinks">			
-				<li class="elemMenuHeaderLinks_title <?php currentPage('trendvision'); ?>"><a href="<?php setView('trendvision'); ?>"><span>TREND VISION</span> VENEZUELA 2012</a></li>
+				<li class="elemMenuHeaderLinks_title <?php currentPage('trendvision'); ?>"><a href="<?php setView('trendvision'); ?>"><span>TREND VISION</span> VENEZUELA 2013</a></li>
                 <li class="elemMenuHeaderSeparador"><div class="separador"></li>
 				<li class="elemMenuHeaderLinks <?php currentPage('participantes'); ?>"><a href="<?php setView('participantes'); ?>">PARTICIPANTES</a></li>
                 <li class="elemMenuHeaderSeparador"><div class="separador"></li>
@@ -28,7 +28,7 @@
                 <li class="elemMenuHeaderSeparador"><div class="separador"></li>		
 				<li class="elemMenuHeaderLinks <?php currentPage('vota'); ?>"><a href="<?php setView('vota'); ?>">VOTA</a></li>
                 <li class="elemMenuHeaderSeparador"><div class="separador"></li>
-                <li class="elemMenuHeaderLinks twoLines <?php currentPage('terminos_condiciones'); ?>"><a href="<?php setView('terminos_condiciones'); ?>">TERMINOS <br> Y CONDICIONES</a></li>
+                <li class="elemMenuHeaderLinks twoLines <?php currentPage('terminos-condiciones'); ?>"><a href="<?php setView('terminos-condiciones'); ?>">TERMINOS <br> Y CONDICIONES</a></li>
 		</ul>
         <div class="sub_header"></div>	
  </div>

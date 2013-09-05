@@ -33,6 +33,7 @@ class InfoManager
 
 	public function get($logicPath,$type)
 	{
+
 		if($this->viewExists($logicPath,$this->bindings))
 		{
 			$permision = $this->validateRol($logicPath);

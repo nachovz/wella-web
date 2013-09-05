@@ -23,19 +23,10 @@ if(!empty($vars['participantes'])){
 							</div>
 							<h2><span><?php echo $web->nombre; ?></span> <?php echo $web->apellido; ?></h2>
 							<p>
-								<b>Estado:</b> <?php echo $web->estado; ?>
+								<b>Estado o  Ciudad:</b> <?php echo $web->estado; ?>
 							</p>                 
 							<p>
-								<b>Salón:</b> <?php echo $web->salon; ?>
-							</p>
-							<p>
-								<b>Direccion de salón:</b> <?php echo $web->direccion; ?>
-							</p>
-							<p>
-								<b>Especialidad:</b> <?php echo $web->especialidad; ?>
-							</p>
-							<p>
-								<b>Años de experiencia:</b> <?php echo $web->experiencia; ?>
+								<b class="twitter">Twitter:</b> <a href="http://www.twitter.com/<?php echo $web->twitter;?>">@<?php echo $web->twitter; ?></a>
 							</p>
 						</div>
                 <?php if ($x != 4){ ?>

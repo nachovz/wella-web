@@ -6,7 +6,7 @@
 <div id="header">	
 		<a href="<?php setView('inicio'); ?>"><div id="logo"></div></a>		
  		<div id="banner">
-			<img src="<?php imageURL();?>home/foto-home_03.png" border="0" />
+			<img src="<?php imageURL();?>home/home-banner.jpg" border="0" />
     	</div>
 </div>
 

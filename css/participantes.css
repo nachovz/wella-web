@@ -60,8 +60,7 @@
 .img_part{
 	min-width:178px;
 	width:178px;
-	height:119px;
-	border-bottom:2px #d4114b solid;
+	height:144px;
 }
 
 h2{
@@ -163,6 +162,4 @@ min-width:10px;
 		}	
 	#prevBtn a:hover, #slider1prev a:hover{ 
 		background:url(../images/1_13.jpg) no-repeat;
-		}	
-		
-	
+		}

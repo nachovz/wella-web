@@ -138,9 +138,9 @@ a{
 
 #logo{
 	min-width:181px;
-	width:181px;
-	height:131px;
-	background:url(../images/home/1_03_03.jpg) no-repeat;
+	width:187px;
+	height:134px;
+	background:url(../images/home/wella-stage-logo.png) no-repeat;
 	cursor:pointer;
 	float:right;
 	padding-right:30px;
@@ -238,9 +238,18 @@ elemMenuFooterLinks_title a{
 	color:#969699;
 }
 
-a{
+a,
+a:link,
+a:visited{
 	color:#969699;
 }
+
+a:hover,
+a:active,
+a:focus{
+	color: #d41149;
+}
+
 
 .elemMenuFooterLinks_title span{
 	font-family: "ClNwMediumLf", arial;
@@ -289,6 +298,16 @@ a{
 	color:#969699;
 	float:left;
 	
+}
+
+.elemMenuFooterLinks.twoLines{
+	padding-top: 8px;
+}
+
+.elemMenuFooterLinks.twoLines a{
+	width: 125px;
+	display: inline-block;
+	text-align: center;
 }
 
 .elemMenuFooterLinks a, .elemMenuFooterLinks p{
@@ -347,10 +366,10 @@ a{
 
 #logo_header{
 	float:left;
-	min-width:139px;
-	width:139px;
+	min-width:143px;
+	width:143px;
 	height:109px;
-	background:url(../images/1_032.jpg) no-repeat;
+	background: transparent url(../images/logo-wella-header.png) no-repeat;
 }
 
 #logo_header:hover{
@@ -358,7 +377,7 @@ a{
 }
 
 #menuHeaderLinks{
-	float:right;
+	float:left;
 	overflow:hidden;
 	list-style: none;
 	text-align:left;
@@ -366,6 +385,7 @@ a{
 	min-width:630px;
 	width:630px;
 	margin-top:-95px;
+	margin-left: 124px;
 	padding-bottom:20px;
 }
 
