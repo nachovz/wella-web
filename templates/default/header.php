@@ -15,7 +15,8 @@
                 	<li class="link"><a href="<?php setView('reto=1'); ?>">1</a></li>
                     <li><div class="separa_sub"></li>
                     <li class="link"><a href="<?php setView('reto=2'); ?>">2</a></li>
-                     <li><div class="separa_sub"></li>
+                    <!-- 
+                    <li><div class="separa_sub"></li>                    
                     <li class="link"><a href="<?php setView('reto=3'); ?>">3</a></li>
                      <li><div class="separa_sub"></li>
                     <li class="link"><a href="<?php setView('reto=4'); ?>">4</a></li>
@@ -26,7 +27,8 @@
                     <li><div class="separa_sub"></li>
                     <li class="link"><a href="<?php setView('reto=7'); ?>">7</a></li>
                     <li><div class="separa_sub"></li>
-                    <li class="link"><a href="<?php setView('reto=8'); ?>">8</a></li>                    
+                    <li class="link"><a href="<?php setView('reto=8'); ?>">8</a></li>
+                     -->
                 </ul>
                 </li>	
                 <li class="elemMenuHeaderSeparador"><div class="separador"></li>		
