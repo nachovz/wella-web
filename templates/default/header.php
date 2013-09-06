@@ -23,10 +23,14 @@
                     <li class="link"><a href="<?php setView('reto=5'); ?>">5</a></li>
                     <li><div class="separa_sub"></li>
                     <li class="link"><a href="<?php setView('reto=6'); ?>">6</a></li>
+                    <li><div class="separa_sub"></li>
+                    <li class="link"><a href="<?php setView('reto=7'); ?>">7</a></li>
+                    <li><div class="separa_sub"></li>
+                    <li class="link"><a href="<?php setView('reto=8'); ?>">8</a></li>                    
                 </ul>
                 </li>	
                 <li class="elemMenuHeaderSeparador"><div class="separador"></li>		
-				<li class="elemMenuHeaderLinks <?php currentPage('vota'); ?>"><a href="<?php setView('vota'); ?>">VOTA</a></li>
+				<li class="elemMenuHeaderLinks <?php currentPage('vota'); ?>"><a href="<?php echo $GLOBALS["wellaAppURL"] . 'mobile';?>">VOTA</a></li>
                 <li class="elemMenuHeaderSeparador"><div class="separador"></li>
                 <li class="elemMenuHeaderLinks twoLines <?php currentPage('terminos-condiciones'); ?>"><a href="<?php setView('terminos-condiciones'); ?>">TERMINOS <br> Y CONDICIONES</a></li>
 		</ul>

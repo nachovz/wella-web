@@ -1,18 +1,39 @@
 <div id="mainContent">
 	<div id="play_video">
-    	<img src="<?php imageURL();?>retos/reto2.png" border="0" />
+    	<img src="<?php imageURL();?>retos/reto2_2.png" border="0" />
     <div class="border"></div>
     </div>
     <div id="texto" class="large">
     	<h2><span>RETO 2</span> Interpreta el color</h2>
-    	<p>
-      		En este reto el participante deberá interpretar las técnicas de color asociadas a las 4 tendencias de Trend Vision 2012; para ello deberá trabajarlas sobre maniquíes de cabello natural.<br/>
-            Cada participante tendrá 2 maniquíes y en cada uno de ellos debe realizar dos de las tendencias (una en cada mitad de cabeza). En este reto se evaluará la experticia del participante ,en color y en su interpretación libre de la técnica y la mezcla de matices.<br/>
-            Los maniquíes serán enviados a Wella para la evaluación por parte del jurado y del experto equipo técnico. </p>
-            <br/>
-		<p>
-			<b>Nivel de dificultad: 2</b>
-        </p>
+      <p><b>Fecha del reto: Desde el 16 de agosto al 29 de agosto.</b></p>
+
+      
+      <p class="list-item">Para este reto se le hará entrega al participante de dos maniquíes de cabello natural y es indispensable de las destrezas y habilidades del participante para desarrollar cada una de las tendencias de Trend Vision 2013.</p>
+      <p class="list-item">En cada maniquí se realizará la interpretación de dos tendencias (una en cada mitad de la cabeza). Se evaluará: Interpretación de la tendencia, tonos seleccionados, cosmeticidad del cabello, pulcritud del trabajo, incluyendo limpieza del maniquí, entre otros.</p>
+
+
+      <p><b>¿Qué debe enviar?</b></p>
+
+
+      <p class="list-item">El participante deberá enviar a Caracas junto a los maniquíes finalizados, videos del proceso de coloración, al menos 8 fotografías del paso a paso, la diagramación utilizada para cada tendencia, el paso a paso del proceso de coloración, tonos utilizados y relaciones de mezclas empleadas.</p>
+
+
+      <p><b>¿A dónde debes enviarlo?</b></p>
+
+
+      <p class="list-item">Al casillero de Zoom CCS-0166, atención Srta. Jackeline Gallego. Es importante que confirmen la realización del envío, y hagan seguimiento a la efectividad del mismo a través de los números 0800-72566-00 o 0212-7003001</p>
+      <p class="list-item">Fecha máxima de envío: jueves 29 de Agosto.</p>
+
+
+      <p><b>Importante</b></p>
+
+
+      <p class="list-item">El participante que no envíe la interpretación del trabajo en los maniquíes dentro del tiempo establecido, automáticamente será descalificado.</p>
+      <p class="list-item">La semana del 29 de Agosto al 05 de Septiembre se realizarán las votaciones por facebook, quedan amenazados 4 participantes y se descalifican 2 de los mismos.</p>
+      
+      <p><b>Fecha máxima de envío 28 de Agosto 2013</b></p>
+      <p><b>Amenazados 4 participants, se eliminan 2</b></p>
+
        <DIV class="sub"></DIV>
        <div id="slider" class="galleria">
        		<ul>

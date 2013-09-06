@@ -17,6 +17,8 @@
 	<view name="reto=4" url="reto4.php" template="default" styles="retos.css"/>
 	<view name="reto=5" url="reto5.php" template="default" styles="retos.css"/>
 	<view name="reto=6" url="reto6.php" template="default" styles="retos.css"/>
+	<view name="reto=7" url="reto7.php" template="default" styles="retos.css"/>
+	<view name="reto=8" url="reto8.php" template="default" styles="retos.css"/>
 	
 	<view name="vota" url="vota.php" template="default" styles="vota.css"/>
 </views>

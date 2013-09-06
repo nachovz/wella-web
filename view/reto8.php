@@ -1,6 +1,6 @@
 <div id="mainContent">
 	<div id="play_video">
-    	<img src="<?php imageURL();?>retos/reto2_6.png" border="0" />
+    	<img src="<?php imageURL();?>retos/reto2_8.png" border="0" />
     <div class="border"></div>
     </div>
     <div id="texto" class="large">

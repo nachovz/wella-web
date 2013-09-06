@@ -369,11 +369,11 @@ a:focus{
 	min-width:143px;
 	width:143px;
 	height:109px;
-	background: transparent url(../images/logo-wella-header.png) no-repeat;
+	background: transparent url(../images/wella_boton_of.png) no-repeat left top;
 }
 
 #logo_header:hover{
-	background:url(../images/1_032_hover.jpg) no-repeat;
+	background: transparent url(../images/wella_boton_on.png) no-repeat left top;
 }
 
 #menuHeaderLinks{

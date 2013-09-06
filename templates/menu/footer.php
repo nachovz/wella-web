@@ -6,7 +6,7 @@
                 <li class="elemMenuFooterSeparador"><div class="separador"></li>
 				<li class="elemMenuFooterLinks"><a href="<?php setView('reto=1'); ?>">RETOS</a></li>	
                 <li class="elemMenuFooterSeparador"><div class="separador"></li>		
-				<li class="elemMenuFooterLinks"><a href="<?php setView('vota'); ?>">VOTA</a></li>
+				<li class="elemMenuFooterLinks"><a href="<?php echo $GLOBALS["wellaAppURL"] . 'mobile';?>">VOTA</a></li>
                 <li class="elemMenuFooterSeparador"><div class="separador"></li>
 				<!-- li class="elemMenuFooterLinks"><a href="<?php setView('especialistas=teamartistico'); ?>">TEAM ARTISTICO</a></li>
                 <li class="elemMenuFooterSeparador"><div class="separador"></li -->
