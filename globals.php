@@ -74,10 +74,10 @@ $GLOBALS["frendlyURL"] = true;
 /*--------FRENDLY URL DEFINITIONS----------*/
 //$local = $_SERVER['REMOTE_ADDR'] === '127.0.0.1';
 //if($local):
-	$GLOBALS["baseURL"] = "http://localhost/wella-web/";
-	$GLOBALS["secureBaseURL"] = "https://localhost/wella-web/";
-	$GLOBALS["wellaAppURL"] = "http://localhost/wella-app/";
-	$GLOBALS["secureWellaAppURL"] = "https://localhost/wella-app/";
+	$GLOBALS["baseURL"] = "http://apps.cuevasocial.com/concurso/web/";//http://localhost/wella-web/";
+	$GLOBALS["secureBaseURL"] = "https://apps.cuevasocial.com/concurso/web/";
+	$GLOBALS["wellaAppURL"] = "http://apps.cuevasocial.com/concurso/app/";
+	$GLOBALS["secureWellaAppURL"] = "https://apps.cuevasocial.com/concurso/app/";
 //else:
 //	$GLOBALS["baseURL"] = "http://geekies.co/wella/";
 //	$GLOBALS["secureBaseURL"] = "https://geekies.co/wella/";

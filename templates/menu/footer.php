@@ -10,11 +10,11 @@
                 <li class="elemMenuFooterSeparador"><div class="separador"></li>
 				<!-- li class="elemMenuFooterLinks"><a href="<?php setView('especialistas=teamartistico'); ?>">TEAM ARTISTICO</a></li>
                 <li class="elemMenuFooterSeparador"><div class="separador"></li -->
-				<li class="elemMenuFooterLinks twoLines"><a href="<?php setView('terminos-condiciones'); ?>">TÉRMINOS <br> Y CONDICIONES</a></li>
+				<!--<li class="elemMenuFooterLinks twoLines"><a href="<?php setView('terminos-condiciones'); ?>">TÉRMINOS <br> Y CONDICIONES</a></li>-->
 			  </ul>
-              <div class="video">
+              <!--<div class="video">
               	<a href="javascript:void(0)" onclick="openWd();">VIDEO PROMOCIONAL</a>
-              </div>
+              </div>-->
 			  <div class="copy">
 				<p>COSMEDICA, C.A. - RIF:  J-00009041-6 © Copyright 2013. Todos los Derechos Reservados</p>
 			  </div>

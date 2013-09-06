@@ -7,8 +7,9 @@
     	<h2><span>RETO 1</span> La esencia de Trend Vision</h2>
     	<p>En este reto el participante recibirá el seminario de las tendencias de Trend Vision 2013. Al finalizar el seminario, tendrá una prueba escrita donde la calificación será parte de la evaluación para la 1era eliminatoria el 16 de agosto.</p>
 		<br/>
+      <p><b>Nivel de dificultad: 1</b></p>
        <div class="sub"></div>
-       <div id="slider" class="galleria">
+       <!--<div id="slider" class="galleria">
        		<ul>
             	<li>
                 	<div class="pasos">
@@ -18,8 +19,8 @@
                 </li>
                
             </ul>
-       </div>
-       <p><b>Nivel de dificultad: 1</b></p>
+       </div>-->
+       
     </div>
     <!--  <div class="final">
        		<p>FINALIZACION DE RETO 1: 10.06.2012</p>

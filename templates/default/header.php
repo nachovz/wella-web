@@ -34,7 +34,7 @@
                 <li class="elemMenuHeaderSeparador"><div class="separador"></li>		
 				<li class="elemMenuHeaderLinks <?php currentPage('vota'); ?>"><a href="<?php echo $GLOBALS["wellaAppURL"] . 'mobile';?>">VOTA</a></li>
                 <li class="elemMenuHeaderSeparador"><div class="separador"></li>
-                <li class="elemMenuHeaderLinks twoLines <?php currentPage('terminos-condiciones'); ?>"><a href="<?php setView('terminos-condiciones'); ?>">TERMINOS <br> Y CONDICIONES</a></li>
+                <!--<li class="elemMenuHeaderLinks twoLines <?php currentPage('terminos-condiciones'); ?>"><a href="<?php setView('terminos-condiciones'); ?>">TERMINOS <br> Y CONDICIONES</a></li>-->
 		</ul>
         <div class="sub_header"></div>	
  </div>
