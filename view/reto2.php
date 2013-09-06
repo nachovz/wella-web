@@ -1,4 +1,4 @@
-<div id="mainContent">
+<div id="mainContent" class="extended">
 	<div id="play_video">
     	<img src="<?php imageURL();?>retos/reto2_2.png" border="0" />
     <div class="border"></div>
